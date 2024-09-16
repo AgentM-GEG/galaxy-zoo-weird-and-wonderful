@@ -17,4 +17,5 @@ In this repo, there are a couple of resources:
   - `compute_anomaly_scores.py` is a standalone python file that illustrates how to load the provided model checkpoints to apply the wGAN and generate anomaly scores for any number of images within a desired folder.
 
 **Coming Soon**
+
 Scripts that outline the wGAN architecture alongside the training and inference examples.
